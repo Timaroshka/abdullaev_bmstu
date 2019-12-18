@@ -1,0 +1,10 @@
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\bin\Debug\FormFor4thLab.exe.config
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\bin\Debug\FormFor4thLab.exe
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\bin\Debug\FormFor4thLab.pdb
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\obj\Debug\FormFor4thLab.csprojAssemblyReference.cache
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\obj\Debug\FormFor4thLab.Form1.resources
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\obj\Debug\FormFor4thLab.Properties.Resources.resources
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\obj\Debug\FormFor4thLab.csproj.GenerateResource.cache
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\obj\Debug\FormFor4thLab.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\obj\Debug\FormFor4thLab.exe
+C:\Users\Тимур\source\repos\FormFor4thLab\FormFor4thLab\obj\Debug\FormFor4thLab.pdb
