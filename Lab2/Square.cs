@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lab2
 {
-    class Square : Rectangle, IPrint
+    public class Square : Rectangle, IPrint
     {
         public Square(double yourlength)
         {
@@ -14,7 +14,7 @@ namespace Lab2
         }
         public override string ToString()
         {
-            return "Length of the side: " + _length1.ToString() + "; Square: " + area.ToString() + ";";
+            return "Length of the side: " + _length1.ToString() + "; Square: " + finding_area().ToString() + ";";
         }
     }
 }

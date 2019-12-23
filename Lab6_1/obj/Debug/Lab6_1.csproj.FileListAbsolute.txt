@@ -1,0 +1,7 @@
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab6_1\bin\Debug\Lab6_1.exe.config
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab6_1\bin\Debug\Lab6_1.exe
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab6_1\bin\Debug\Lab6_1.pdb
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab6_1\obj\Debug\Lab6_1.csprojAssemblyReference.cache
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab6_1\obj\Debug\Lab6_1.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab6_1\obj\Debug\Lab6_1.exe
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab6_1\obj\Debug\Lab6_1.pdb

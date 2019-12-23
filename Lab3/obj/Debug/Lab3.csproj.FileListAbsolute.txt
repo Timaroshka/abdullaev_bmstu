@@ -1,0 +1,11 @@
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\bin\Debug\Lab3.exe
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\bin\Debug\ConsoleApp1.exe
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\bin\Debug\ConsoleApp1.pdb
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\obj\Debug\Lab3.csproj.CopyComplete
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\obj\Debug\Lab3.exe
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab3\obj\Debug\Lab3.pdb

@@ -71,7 +71,7 @@ namespace Lab6_1
             c = Int32.Parse(Console.ReadLine());
 
             Console.WriteLine();
-            Console.WriteLine("Корни найдены при помощи делегатов and лямбда-выражения:");
+            Console.WriteLine("Корни найдены при помощи делегатов и лямбда-выражения:");
             equation(a, b, c, discr, Findroot);
 
             Console.WriteLine();

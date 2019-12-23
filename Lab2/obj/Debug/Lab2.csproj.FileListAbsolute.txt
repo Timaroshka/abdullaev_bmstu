@@ -5,3 +5,10 @@ C:\Users\Тимур\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\Lab2.csprojAs
 C:\Users\Тимур\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
 C:\Users\Тимур\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.exe
 C:\Users\Тимур\source\repos\ConsoleApp3\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab2\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab2\bin\Debug\ConsoleApp1.exe
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab2\bin\Debug\ConsoleApp1.pdb
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab2\obj\Debug\Lab2.csprojAssemblyReference.cache
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab2\obj\Debug\Lab2.csproj.CoreCompileInputs.cache
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab2\obj\Debug\ConsoleApp1.exe
+C:\Users\Тимур\source\repos\ConsoleApp3\Lab2\obj\Debug\ConsoleApp1.pdb

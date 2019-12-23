@@ -5,7 +5,7 @@ using System.Text;
 
 namespace Lab2
 {
-    class Rectangle : Geometric_figures, IPrint
+    public class Rectangle : Geometric_figures, IPrint
     {
         protected double area;
 
@@ -34,14 +34,14 @@ namespace Lab2
             set { _length2 = value; }
         }
 
-        public override void finding_area()
+        public override Double finding_area()
         {
-            area = _length1 * _length2;
+            return  _length1 * _length2;
         }
 
         public override string ToString()
         {
-            return "Length of the sides: " + _length1.ToString() + ", " + _length2.ToString() + "; Square: " + area.ToString() + ";";
+            return "Length of the sides: " + _length1.ToString() + ", " + _length2.ToString() + "; Square: " + finding_area().ToString() + ";";
         }
 
         public void Print()
