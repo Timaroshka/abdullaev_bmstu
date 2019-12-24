@@ -1,4 +1,4 @@
-﻿namespace FormFor4thLab
+﻿namespace Lab5
 {
     partial class Form1
     {
@@ -133,6 +133,7 @@
             this.textBoxMaxDist.Name = "textBoxMaxDist";
             this.textBoxMaxDist.Size = new System.Drawing.Size(151, 22);
             this.textBoxMaxDist.TabIndex = 9;
+            this.textBoxMaxDist.TextChanged += new System.EventHandler(this.textBoxMaxDist_TextChanged);
             // 
             // textBoxThreadCount
             // 

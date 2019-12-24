@@ -9,9 +9,9 @@ using System.Threading.Tasks;
 using System.Diagnostics;
 using System.IO;
 
-using FormFor4thLab;
+using Lab5;
 
-namespace FormFor4thLab
+namespace Lab5
 {
     public class ParallelSearchResult
     {

@@ -1,5 +1,4 @@
 C:\Users\Тимур\source\repos\ConsoleApp3\lab4\obj\Debug\Lab4.csprojAssemblyReference.cache
-C:\Users\Тимур\source\repos\ConsoleApp3\lab4\obj\Debug\FormFor4thLab.Form1.resources
 C:\Users\Тимур\source\repos\ConsoleApp3\lab4\obj\Debug\FormFor4thLab.Properties.Resources.resources
 C:\Users\Тимур\source\repos\ConsoleApp3\lab4\obj\Debug\Lab4.csproj.GenerateResource.cache
 C:\Users\Тимур\source\repos\ConsoleApp3\lab4\obj\Debug\Lab4.csproj.CoreCompileInputs.cache
@@ -12,3 +11,4 @@ C:\Users\Тимур\source\repos\ConsoleApp3\lab4\bin\Debug\Lab5.exe
 C:\Users\Тимур\source\repos\ConsoleApp3\lab4\bin\Debug\Lab5.pdb
 C:\Users\Тимур\source\repos\ConsoleApp3\lab4\bin\Debug\Lab5.exe.config
 C:\Users\Тимур\source\repos\ConsoleApp3\lab4\obj\Debug\Lab4.csproj.CopyComplete
+C:\Users\Тимур\source\repos\ConsoleApp3\lab4\obj\Debug\Lab5.Form1.resources

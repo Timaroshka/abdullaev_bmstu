@@ -9,8 +9,11 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using System.Diagnostics;
 using System.IO;
+using FormFor4thLab;
+using Lab5;
 
-namespace FormFor4thLab
+
+namespace Lab5
 {
     public partial class Form1 : Form
     {
@@ -190,6 +193,13 @@ namespace FormFor4thLab
 
                 timer.Stop();
 
+                for (int i = 0; i < count; i++)
+                {
+                    Result.AddRange(tasks[i].Result);
+                }
+
+                timer.Stop();
+
 
                 this.textBoxApproxTime.Text = timer.Elapsed.ToString();
 
@@ -317,6 +327,11 @@ namespace FormFor4thLab
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void textBoxMaxDist_TextChanged(object sender, EventArgs e)
         {
 
         }

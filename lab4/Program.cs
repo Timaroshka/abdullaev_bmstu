@@ -3,8 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Lab5;
+using FormFor4thLab;
 
-namespace FormFor4thLab
+namespace Lab5
 {
     static class Program
     {

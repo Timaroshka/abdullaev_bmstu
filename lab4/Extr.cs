@@ -3,9 +3,9 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using FormFor4thLab;
+using Lab5;
 
-namespace FormFor4thLab
+namespace Lab5
 {
     class Extr
     {
